@@ -1,3 +1,6 @@
+Front-End Developer 
+
+
 <div>
   <a href="https://github.com/julianasinnott">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianasinnott&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
