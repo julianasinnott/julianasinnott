@@ -1,5 +1,4 @@
-Front-End Developer 
-
+<h2>Front-End Developer 📈 </h2>
 
 <div>
   <a href="https://github.com/julianasinnott">
