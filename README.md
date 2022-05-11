@@ -6,6 +6,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasinnott&layout=compact&langs_count=6&theme=react"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Ts" height="33" width="36"
+src="https://user-images.githubusercontent.com/100887684/167869228-d1c37a9b-478f-4222-8929-26580a5f49fd.png">
+  <img align="center" alt="Ts" height="30" width="30"
+src="https://user-images.githubusercontent.com/100887684/167867377-2a971250-af79-4d7d-b35f-cca577db3d32.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
