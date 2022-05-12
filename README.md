@@ -13,6 +13,7 @@ src="https://user-images.githubusercontent.com/100887684/167867377-2a971250-af79
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="29" src="https://user-images.githubusercontent.com/100887684/168123809-f612a11e-b82f-4944-a915-26f5b2b81b8e.PNG">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
 </div>
 
  <br>
@@ -22,5 +23,12 @@ src="https://user-images.githubusercontent.com/100887684/167867377-2a971250-af79
   <a href="https://instagram.com/julianasinnott" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <br>
    <a href="https://www.linkedin.com/in/julianasinnott" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+
+##### Profile visits
+<p align="center"> 
+   <img height="25px" alingn="center" src="https://profile-counter.glitch.me/julianasinnott/count.svg" />
+ </p>
+
+
   ![Snake animation](https://github.com/julianasinnott/julianasinnott/blob/output/github-contribution-grid-snake.svg)
 </div>
