@@ -1,4 +1,4 @@
-<h2>Software Developer | Front-End 💻 </h2>
+<h2>Software Developer</h2>
 
 <div>
   <a href="https://github.com/julianasinnott">
