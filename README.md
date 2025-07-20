@@ -50,12 +50,4 @@
    <a href="https://www.linkedin.com/in/julianasinnott" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 <img align="center" width="100%" src="https://user-images.githubusercontent.com/100887684/194302670-4a18249c-d63c-4573-b5ec-24774a47a90b.gif">
-
-##### Profile visits
-<p align="center"> 
-   <img height="25px" alingn="center" src="https://profile-counter.glitch.me/julianasinnott/count.svg" />
- </p>
-
-
-  ![Snake animation](https://github.com/julianasinnott/julianasinnott/blob/output/github-contribution-grid-snake.svg)
 </div>
